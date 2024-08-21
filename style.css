@@ -1,0 +1,65 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{ 
+  background-color: #f2e4c0;
+}
+
+.portada img{
+  width: 35%;
+  height: 35%;
+  margin-top: 50px;
+}
+
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.titulo p{
+  font-size: 50px;
+  font-family: "Amasis MT Pro Medium";
+  color: #1b425a;
+}
+
+.enlace p{
+  color: black;
+  font-size: 25px;
+  font-family: "Comic Sans MS";
+}
+
+.subtitulo p{
+  font-size: 25px;
+  font-family: "Amasis MT Pro Medium";
+  color: #585d5f;
+  margin-left: 50px;
+}
+
+.subtitulo{
+  text-align: left;
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  margin-top: 20px;
+}
+
+.contenido p{
+  font-size: 22px;
+  font-family: "Amasis MT Pro Medium";
+  color: #585d5f;
+  text-align: justify;
+  margin: 50px;
+  margin-left: 90px;
+  line-height: 1.4;
+  margin-top: 80px;
+}
+
+.contenido img{
+    width: 30%;
+    height: 30%;
+    margin-right: 70px;
+}
